@@ -5,6 +5,8 @@ repo: lumivoid.pp.ua-Uptime # The name of this repository
 sites:
   - name: Lumivoid
     url: https://lumivoid.pp.ua
+  - name: Lumivoid maven
+    url: https://maven.lumivoid.pp.ua
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
