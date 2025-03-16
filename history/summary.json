@@ -4,19 +4,19 @@
     "url": "https://lumivoid.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/lumivoid.pp.ua.ico",
     "slug": "lumivoid",
-    "status": "up",
-    "uptime": "17.33%",
-    "uptimeDay": "17.33%",
-    "uptimeWeek": "17.33%",
-    "uptimeMonth": "17.33%",
-    "uptimeYear": "17.33%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "status": "down",
+    "uptime": "24.02%",
+    "uptimeDay": "24.02%",
+    "uptimeWeek": "24.02%",
+    "uptimeMonth": "24.02%",
+    "uptimeYear": "24.02%",
+    "time": 441,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-03-16": 135
+      "2025-03-16": 129
     }
   }
 ]
