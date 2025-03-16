@@ -5,18 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/lumivoid.pp.ua.ico",
     "slug": "lumivoid",
     "status": "up",
-    "uptime": "26.99%",
-    "uptimeDay": "26.99%",
-    "uptimeWeek": "26.99%",
-    "uptimeMonth": "26.99%",
-    "uptimeYear": "26.99%",
-    "time": 453,
-    "timeDay": 453,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "uptime": "30.97%",
+    "uptimeDay": "30.97%",
+    "uptimeWeek": "30.97%",
+    "uptimeMonth": "30.97%",
+    "uptimeYear": "30.97%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-03-16": 162
+      "2025-03-16": 156
     }
+  },
+  {
+    "name": "Lumivoid maven",
+    "url": "https://maven.lumivoid.pp.ua",
+    "icon": "https://icons.duckduckgo.com/ip3/maven.lumivoid.pp.ua.ico",
+    "slug": "lumivoid-maven",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 394,
+    "timeDay": 394,
+    "timeWeek": 394,
+    "timeMonth": 394,
+    "timeYear": 394,
+    "dailyMinutesDown": {}
   }
 ]
