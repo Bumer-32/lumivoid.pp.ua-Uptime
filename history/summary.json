@@ -4,17 +4,17 @@
     "url": "https://lumivoid.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/lumivoid.pp.ua.ico",
     "slug": "lumivoid",
-    "status": "up",
-    "uptime": "35.54%",
-    "uptimeDay": "59.00%",
+    "status": "down",
+    "uptime": "37.29%",
+    "uptimeDay": "58.99%",
     "uptimeWeek": "17.37%",
-    "uptimeMonth": "35.54%",
-    "uptimeYear": "35.54%",
-    "time": 485,
-    "timeDay": 518,
-    "timeWeek": 500,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "uptimeMonth": "37.29%",
+    "uptimeYear": "37.29%",
+    "time": 484,
+    "timeDay": 516,
+    "timeWeek": 499,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2025-03-28": 286,
       "2025-03-27": 738,
@@ -26,8 +26,7 @@
       "2025-03-21": 674,
       "2025-03-20": 488,
       "2025-03-19": 761,
-      "2025-03-18": 1038,
-      "2025-03-17": 2
+      "2025-03-18": 749
     }
   },
   {
@@ -36,18 +35,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maven.lumivoid.pp.ua.ico",
     "slug": "lumivoid-maven",
     "status": "up",
-    "uptime": "29.92%",
-    "uptimeDay": "60.93%",
-    "uptimeWeek": "20.11%",
-    "uptimeMonth": "29.92%",
-    "uptimeYear": "29.92%",
+    "uptime": "29.54%",
+    "uptimeDay": "61.55%",
+    "uptimeWeek": "20.22%",
+    "uptimeMonth": "29.54%",
+    "uptimeYear": "29.54%",
     "time": 475,
-    "timeDay": 480,
-    "timeWeek": 514,
+    "timeDay": 486,
+    "timeWeek": 515,
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-03-28": 243,
+      "2025-03-28": 234,
       "2025-03-27": 562,
       "2025-03-26": 1098,
       "2025-03-25": 1414,
@@ -58,7 +57,7 @@
       "2025-03-20": 714,
       "2025-03-19": 937,
       "2025-03-18": 1006,
-      "2025-03-17": 725
+      "2025-03-17": 800
     }
   }
 ]
